@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Manual Testing</name>
+   <name>TestCase_005_Use_Store_Objects</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c64cae6f-575b-452b-bb2e-825420f75231</testCaseGuid>
+   <testCaseGuid>e8a71e56-fe12-4e14-80e8-b3b648b96606</testCaseGuid>
 </TestCaseEntity>
