@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite_002" time="7.409" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuite_002" tests="1" failures="0" errors="0" time="7.409" timestamp="2020-09-24 11:19:09" hostname="Exord_Online - DESKTOP-2SS3IT1" id="Test Suites/TestSuite_002">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Exord_Online\\git\\Katalon-Studio-Test\\Reports\\20200924_111904\\TestSuite_002\\20200924_111905"/>
+         <property name="logFiles" value="C:\\Users\\Exord_Online\\git\\Katalon-Studio-Test\\Reports\\20200924_111904\\TestSuite_002\\20200924_111905\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Exord_Online - DESKTOP-2SS3IT1"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.7.0.205"/>
+         <property name="browser" value="Chrome 85.0.4183.121"/>
+         <property name="hostAddress" value="10.100.100.254"/>
+         <property name="sessionId" value="def546be96d1e400d88588c6ed47d25a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase_010_Use_Execution_Profile" time="5.993" classname="Test Cases/TestCase_010_Use_Execution_Profile" status="PASSED">
+         <system-out><![CDATA[2020-09-24 11:19:10 - [TEST_CASE][PASSED] - Test Cases/TestCase_010_Use_Execution_Profile: Test Cases/TestCase_010_Use_Execution_Profile
+
+2020-09-24 11:19:10 - [TEST_STEP][PASSED] - openBrowser(URL): Browser is opened with url: 'null'
+
+2020-09-24 11:19:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-09-24 11:19:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-09-24 11:19:16 - [MESSAGE][PASSED] - Browser is opened with url: 'null']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-09-24 11:19:09 - [TEST_SUITE][PASSED] - TestSuite_002: Test Cases/TestCase_010_Use_Execution_Profile]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

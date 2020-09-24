@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Regrassion multi data,Chrome 85.0.4183.121,,,2020-09-24 09:39:12,2020-09-24 09:39:50,38.740s,PASSED
+,,,,,,,
+Test Cases/TestCase_008_Data_Driven_Testing,Chrome 85.0.4183.121,,,2020-09-24 09:39:12,2020-09-24 09:39:28,16.313s,PASSED
+"openBrowser(""https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials"")",Chrome 85.0.4183.121,,,2020-09-24 09:39:13,2020-09-24 09:39:22,9.622s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), Username)",Chrome 85.0.4183.121,,,2020-09-24 09:39:22,2020-09-24 09:39:23,0.952s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_txtPassword""), Password)",Chrome 85.0.4183.121,,,2020-09-24 09:39:23,2020-09-24 09:39:24,0.677s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/input_Password_Submit""))",Chrome 85.0.4183.121,,,2020-09-24 09:39:24,2020-09-24 09:39:28,4.555s,PASSED
+,,,,,,,
+Test Cases/TestCase_008_Data_Driven_Testing,Chrome 85.0.4183.121,,,2020-09-24 09:39:28,2020-09-24 09:39:40,11.133s,PASSED
+"openBrowser(""https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials"")",Chrome 85.0.4183.121,,,2020-09-24 09:39:28,2020-09-24 09:39:37,8.156s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), Username)",Chrome 85.0.4183.121,,,2020-09-24 09:39:37,2020-09-24 09:39:37,0.694s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_txtPassword""), Password)",Chrome 85.0.4183.121,,,2020-09-24 09:39:37,2020-09-24 09:39:38,0.621s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/input_Password_Submit""))",Chrome 85.0.4183.121,,,2020-09-24 09:39:38,2020-09-24 09:39:40,1.628s,PASSED
+,,,,,,,
+Test Cases/TestCase_008_Data_Driven_Testing,Chrome 85.0.4183.121,,,2020-09-24 09:39:40,2020-09-24 09:39:50,10.804s,PASSED
+"openBrowser(""https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials"")",Chrome 85.0.4183.121,,,2020-09-24 09:39:40,2020-09-24 09:39:47,7.855s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), Username)",Chrome 85.0.4183.121,,,2020-09-24 09:39:47,2020-09-24 09:39:48,0.664s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_txtPassword""), Password)",Chrome 85.0.4183.121,,,2020-09-24 09:39:48,2020-09-24 09:39:49,0.608s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/input_Password_Submit""))",Chrome 85.0.4183.121,,,2020-09-24 09:39:49,2020-09-24 09:39:50,1.669s,PASSED

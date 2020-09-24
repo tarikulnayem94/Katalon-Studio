@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Regrassion multi data" time="19.143" tests="1" failures="0" errors="0">
+   <testsuite name="Regrassion multi data" tests="1" failures="0" errors="0" time="19.143" timestamp="2020-09-23 21:18:59" hostname="Exord_Online - DESKTOP-2SS3IT1" id="Test Suites/Regrassion multi data">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Exord_Online\\git\\Katalon-Studio-Test\\Reports\\20200923_211854\\Regrassion multi data\\20200923_211854"/>
+         <property name="logFiles" value="C:\\Users\\Exord_Online\\git\\Katalon-Studio-Test\\Reports\\20200923_211854\\Regrassion multi data\\20200923_211854\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Exord_Online - DESKTOP-2SS3IT1"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.7.0.205"/>
+         <property name="browser" value="Chrome 85.0.4183.102"/>
+         <property name="hostAddress" value="10.100.100.254"/>
+         <property name="sessionId" value="57d90dffb7087a3dc0e61e437f313cda"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase_008_Data_Driven_Testing" time="17.708" classname="Test Cases/TestCase_008_Data_Driven_Testing" status="PASSED">
+         <system-out><![CDATA[2020-09-23 21:18:59 - [TEST_CASE][PASSED] - Test Cases/TestCase_008_Data_Driven_Testing: Test Cases/TestCase_008_Data_Driven_Testing
+
+2020-09-23 21:19:00 - [TEST_STEP][PASSED] - openBrowser("https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials"): Browser is opened with url: 'https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials'
+
+2020-09-23 21:19:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-09-23 21:19:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-09-23 21:19:15 - [MESSAGE][PASSED] - Browser is opened with url: 'https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials'
+
+2020-09-23 21:19:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_OrangeHRM/input_LOGIN Panel_txtUsername"), Username): Text '' is set on object 'Object Repository/Page_OrangeHRM/input_LOGIN Panel_txtUsername'
+
+2020-09-23 21:19:16 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_OrangeHRM/input_LOGIN Panel_txtUsername'
+
+2020-09-23 21:19:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_OrangeHRM/input_Username_txtPassword"), Password): Text '' is set on object 'Object Repository/Page_OrangeHRM/input_Username_txtPassword'
+
+2020-09-23 21:19:17 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_OrangeHRM/input_Username_txtPassword'
+
+2020-09-23 21:19:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_OrangeHRM/input_Password_Submit")): Object: 'Object Repository/Page_OrangeHRM/input_Password_Submit' is clicked on
+
+2020-09-23 21:19:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/input_Password_Submit' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-09-23 21:18:59 - [TEST_SUITE][PASSED] - Regrassion multi data: Test Cases/TestCase_008_Data_Driven_Testing]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

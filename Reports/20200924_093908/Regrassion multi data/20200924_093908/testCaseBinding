@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/TestCase_008_Data_Driven_Testing - Iteration 1","testCaseId":"Test Cases/TestCase_008_Data_Driven_Testing","bindedValues":{"Username":"\u0027Admin\u0027","Password":"\u0027admin123\u0027"}}
+{"testCaseName":"Test Cases/TestCase_008_Data_Driven_Testing - Iteration 2","testCaseId":"Test Cases/TestCase_008_Data_Driven_Testing","bindedValues":{"Username":"\u0027admin\u0027","Password":"\u0027Admin123\u0027"}}
+{"testCaseName":"Test Cases/TestCase_008_Data_Driven_Testing - Iteration 3","testCaseId":"Test Cases/TestCase_008_Data_Driven_Testing","bindedValues":{"Username":"\u0027Admin\u0027","Password":"\u0027admin1234\u0027"}}
