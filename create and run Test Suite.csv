@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+RP_TestSuite_001,Chrome 85.0.4183.121,,,2020-09-28 18:50:36,2020-09-28 18:52:18,1m - 42.343s,FAILED
+,,,,,,,
+Test Cases/RP_TEST_002,Chrome 85.0.4183.121,,,2020-09-28 18:50:36,2020-09-28 18:50:57,21.032s,PASSED
+"openBrowser(""https://opensource-demo.orangehrmlive.com/"")",Chrome 85.0.4183.121,,,2020-09-28 18:50:37,2020-09-28 18:50:47,10.317s,PASSED
+"setText(findTestObject(""RP_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/Username""), ""Admin"")",Chrome 85.0.4183.121,,,2020-09-28 18:50:47,2020-09-28 18:50:48,0.904s,PASSED
+"setText(findTestObject(""RP_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/Password""), ""admin123"")",Chrome 85.0.4183.121,,,2020-09-28 18:50:48,2020-09-28 18:50:48,0.614s,PASSED
+"click(findTestObject(""RP_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/Submit_Button""))",Chrome 85.0.4183.121,,,2020-09-28 18:50:48,2020-09-28 18:50:54,5.234s,PASSED
+"click(findTestObject(""RP_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/a_Welcome abc""))",Chrome 85.0.4183.121,,,2020-09-28 18:50:54,2020-09-28 18:50:54,0.527s,PASSED
+"click(findTestObject(""RP_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/img""))",Chrome 85.0.4183.121,,,2020-09-28 18:50:54,2020-09-28 18:50:56,1.777s,PASSED
+closeBrowser(),Chrome 85.0.4183.121,,,2020-09-28 18:50:56,2020-09-28 18:50:57,1.319s,PASSED
+,,,,,,,
+Test Cases/Test_002_TC,Chrome 85.0.4183.121,,,2020-09-28 18:50:57,2020-09-28 18:51:11,13.627s,PASSED
+"openBrowser(""https://lifecharger.org/"")",Chrome 85.0.4183.121,,,2020-09-28 18:50:58,2020-09-28 18:51:07,9.739s,PASSED
+"click(findTestObject(""Object Repository/Test_002_OR/Page_Life Charger   a new beginning/h2_2 Minute Rule""))",Chrome 85.0.4183.121,,,2020-09-28 18:51:07,2020-09-28 18:51:09,1.425s,PASSED
+"setText(findTestObject(""Test_002_OR/Page_Life Charger   a new beginning/input_Search for_s""), ""life"")",Chrome 85.0.4183.121,,,2020-09-28 18:51:09,2020-09-28 18:51:10,0.765s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Test_002_OR/Page_Life Charger   a new beginning/a_Home""), 4)",Chrome 85.0.4183.121,,,2020-09-28 18:51:10,2020-09-28 18:51:10,0.309s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Test_002_OR/Page_Life Charger   a new beginning/a_Home""), 4)",Chrome 85.0.4183.121,,,2020-09-28 18:51:10,2020-09-28 18:51:10,0.002s,NOT_RUN
+closeBrowser(),Chrome 85.0.4183.121,,,2020-09-28 18:51:10,2020-09-28 18:51:11,1.025s,PASSED
+,,,,,,,
+Test Cases/TestCase_002,Chrome 85.0.4183.121,,,2020-09-28 18:51:11,2020-09-28 18:52:18,1m - 7.093s,FAILED
+"openBrowser("""")",Chrome 85.0.4183.121,,,2020-09-28 18:51:11,2020-09-28 18:51:15,3.719s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 85.0.4183.121,,,2020-09-28 18:51:15,2020-09-28 18:51:19,4.225s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com Online Shopping for Electro_1f0c68/input_All_field-keywords""), ""imac"")",Chrome 85.0.4183.121,,,2020-09-28 18:51:19,2020-09-28 18:51:21,1.339s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Online Shopping for Electro_1f0c68/div_imac 27 inch""))",Chrome 85.0.4183.121,,,2020-09-28 18:51:21,2020-09-28 18:51:25,4.603s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  imac 27 inch/img_Featured_s-image""))",Chrome 85.0.4183.121,,,2020-09-28 18:51:25,2020-09-28 18:51:53,27.519s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com New Apple iMac with Retina _4191f7/span_256GB""))",Chrome 85.0.4183.121,,,2020-09-28 18:51:53,2020-09-28 18:52:18,25.423s,FAILED
