@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+UserValidation,,Test API with Katalon Studio,,2020-09-30 14:19:07,2020-09-30 14:19:10,2.788s,PASSED
+,,,,,,,
+Test Cases/User/Validate User Details,,,userDetails,2020-09-30 14:19:08,2020-09-30 14:19:10,2.381s,PASSED
+"response = sendRequest(findTestObject(""User/GetUserDetails""))",,,,2020-09-30 14:19:08,2020-09-30 14:19:10,1.679s,PASSED
+"verifyResponseStatusCode(response, 200)",,,,2020-09-30 14:19:10,2020-09-30 14:19:10,0.028s,PASSED
+"verifyElementPropertyValue(response, ""data.first_name"", ""Janet"")",,,,2020-09-30 14:19:10,2020-09-30 14:19:10,0.138s,PASSED
